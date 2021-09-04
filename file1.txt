@@ -1,1 +1,2 @@
 file aggiunto editor github
+modifico il file1 in locale
