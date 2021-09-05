@@ -1,3 +1,0 @@
-file aggiunto editor github
-modifico il file1 in locale
-risolto il bug con issue3 modificando il file1
